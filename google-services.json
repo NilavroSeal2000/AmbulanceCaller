@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "302246914659",
+    "firebase_url": "https://urgent-call-3e028.firebaseio.com",
+    "project_id": "urgent-call-3e028",
+    "storage_bucket": "urgent-call-3e028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302246914659:android:6d5a98ee4914e435c1a656",
+        "android_client_info": {
+          "package_name": "com.example.urgent_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302246914659-vgshenshcgt3mfnas46som6funu1fa7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urgent_call",
+            "certificate_hash": "eefc89453b03661f6ca37a33226dfffd4788b0e8"
+          }
+        },
+        {
+          "client_id": "302246914659-v1scjuq38mphgo8ldhhtm5jfdh6bom3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEH7sovcn6RUl1_xr2L2F7GsPpSsCP4pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302246914659-v1scjuq38mphgo8ldhhtm5jfdh6bom3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
